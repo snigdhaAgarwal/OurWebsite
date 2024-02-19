@@ -9,8 +9,8 @@ const Contact = (props) => {
   return (
     <div className="contact-container">
       <Helmet>
-        <title>Contact - Fluid Rosy Woodpecker</title>
-        <meta property="og:title" content="Contact - Fluid Rosy Woodpecker" />
+        <title>Contact</title>
+        <meta property="og:title" content="Contact" />
       </Helmet>
       <header data-thq="thq-navbar" className="contact-navbar-interactive">
         <div className="contact-image"></div>
